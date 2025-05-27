@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Adu-Export | ADULA SERVICE</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: #f9f9f9;
+      color: #333;
+    }
+    header {
+      background-color: #990000;
+      color: white;
+      padding: 40px 20px;
+      text-align: center;
+    }
+    nav {
+      background-color: #333;
+      display: flex;
+      justify-content: center;
+      padding: 10px;
+    }
+    nav a {
+      color: white;
+      text-decoration: none;
+      margin: 0 15px;
+      font-weight: bold;
+    }
+    nav a:hover {
+      text-decoration: underline;
+    }
+    section {
+      padding: 50px 20px;
+      max-width: 1000px;
+      margin: auto;
+    }
+    h2 {
+      color: #990000;
+    }
+    .services ul {
+      list-style: none;
+      padding: 0;
+    }
+    .services li {
+      padding: 8px 0;
+    }
+    footer {
+      background-color: #333;
+      color: white;
+      text-align: center;
+      padding: 20px;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>ADULA SERVICE</h1>
+  <p>Votre partenaire pour l'export Chine – Afrique</p>
+</header>
+
+<nav>
+  <a href="#about">À propos</a>
+  <a href="#services">Services</a>
+  <a href="#contact">Contact</a>
+</nav>
+
+<section id="about">
+  <h2>À propos</h2>
+  <p>ADULA SERVICE, aussi connu sous le nom d'Adu-Export, facilite les échanges entre la Chine et l’Afrique : Mali, Angola, et Gabon. Nous travaillons en partenariat avec DHL pour garantir un service rapide, sécurisé et professionnel.</p>
+</section>
+
+<section id="services" class="services">
+  <h2>Nos Services</h2>
+  <ul>
+    <li>- Achat de produits en Chine</li>
+    <li>- Envoi d’argent en Chine</li>
+    <li>- Exportation de colis vers l’Afrique</li>
+  </ul>
+</section>
+
+<section id="contact">
+  <h2>Contact</h2>
+  <p>Email : contact@adu-export.com</p>
+  <p>Téléphone : +223 90 00 00 00</p>
+  <p>WhatsApp : +223 90 00 00 00</p>
+</section>
+
+<footer>
+  <p>&copy; 2025 Adu-Export | En collaboration avec DHL</p>
+</footer>
+
+</body>
+</html>
